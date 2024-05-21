@@ -41,7 +41,7 @@ math-applied-in-python/
     └── plotting.py                                # Plotting utility scripts                       
 ├── README.md                                      # Project README file
 └── requirements.txt                               # List of dependencies
-
+```
 
 ## Examples
 
